@@ -31,3 +31,7 @@ nc 10.10.18.138 1337
 #### 5. Generate Payload
 #### 6. Prepend NOPs
 #### 7. Exploit
+
+### Repository Guide
+- In `python-scripts` you can find some TryHackMe scripts example in order to make all differents Buffer Overflow steps
+- In `rust-scripts` you will see my alternative written in Rust
